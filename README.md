@@ -1,4 +1,4 @@
-# Frontend Mentor - componente de código QR &copy;Rian Pacheco
+# Frontend Mentor - componente de código QR &copy; Rian Pacheco
 
 ![Visualização do design para o desafio de codificação do componente de código QR](./design/desktop-preview.jpg)
 
