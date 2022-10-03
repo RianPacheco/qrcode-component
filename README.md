@@ -1,7 +1,7 @@
 # Frontend Mentor - componente de código QR &copy; Rian Pacheco
 
 ![Visualização do design para o desafio de codificação do componente de código QR](./design/desktop-preview.jpg)
-Link do PRojeto - https://rianpacheco.github.io/qrcode-component/
+Link do Projeto - https://rianpacheco.github.io/qrcode-component/
 ## Bem-vindo! 👋
 
 Obrigado por conferir este desafio de codificação de front-end.
